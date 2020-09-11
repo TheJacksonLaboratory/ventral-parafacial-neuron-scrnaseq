@@ -1,0 +1,3 @@
+library_id,sample_name,species,background,genome,cellranger_version,reference_version
+DM18006,Black 6,mmusculus,b6,mm10,2.2.0,2.1.0
+DM18008,Control,mmusculus,transgenic,mm10,2.2.0,2.1.0
